@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+
+.content{
+      border: 1px solid black;
+      width: 500px;
+      height: 300px;
+      margin-left: 500px;
+      margin-top: 70px;
+      background: linear-gradient(109.6deg, rgba(0, 0, 0, 0.93) 11.2%, rgb(63, 61, 61) 78.9%);
+      border-radius: 21px;
+      color: whitesmoke;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.card h4{
+    padding-left: 35px;
+}
+
+.card h4{
+    padding-right: 35px;
+} 
+
+
+.content img{
+    height :70px;
+     width :120px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+/* .content h2{
+    padding-left: 100px;
+    padding-top: 20px;
+} */
+
+.numbers{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.valid{
+    display: flex;
+    padding-left: 350px;
+    gap: 8px;
+
+}
+
+.valid h3{
+    
+    padding-top: 30px;
+}
+
+.valid h6{
+    padding-top: 35px;
+}
+
+.content h2{
+    padding-left: 25px;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
